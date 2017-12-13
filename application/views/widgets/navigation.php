@@ -15,7 +15,6 @@
 		</div>
 		<a href="<?php echo site_url('layanan'); ?>" class="item"><strong>Layanan</strong></a>
 		<a href="<?php echo site_url('mitra'); ?>" class="item"><strong>Mitra</strong></a>
-		<a href="<?php echo site_url('karir'); ?>" class="item"><strong>Karir</strong></a>
 		<a href="<?php echo site_url('hubungi'); ?>" class="item"><strong>Hubungi kami</strong></a>
 		<div class="right menu">
 			<div class="item">

@@ -1,5 +1,10 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 <div class="ui main container">
+	<div class="ui breadcrumb">
+		<a href="<?php echo base_url(); ?>" class="section">Beranda</a>
+		<i class="right chevron icon divider"></i>
+		<div class="active section">Mitra</div>
+	</div>
 	<h2>Layanan</h2>
 	<p>Perusahaan dapat menjalankan kegiatan usaha Pembiayaan Konsumen (Consumer Finance), Sewa Guna Usaha (Leasing) dan Anjak Piutang (Factoring) dan dapat beroperasi di seluruh wilayah Indonesia.</p>
 	<p>Perusahaan akan fokus pada pembiayaan produk-produk otomotif dalam skala nasional sesuai dengan pengalaman dan keahlian yang dimiliki oleh Pendiri dan Pengurus perusahaan, baik untuk konsumen korporasi maupun individual, dengan memperkenalkan:</p>

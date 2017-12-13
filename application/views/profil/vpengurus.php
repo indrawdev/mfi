@@ -1,5 +1,10 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 <div class="ui main container">
+	<div class="ui breadcrumb">
+		<a href="<?php echo base_url(); ?>" class="section">Beranda</a>
+		<i class="right chevron icon divider"></i>
+		<div class="active section">Pengurus</div>
+	</div>
 	<h2>Sekilas tentang Pemegang Saham</h2>
 	<p>Pendiri dan pemegang saham perusahaan adalah kelompok usaha Auto Mandiri Group (AMG). Auto Mandiri Group terus berkembang dalam skala nasional dengan bisnis inti distribusi produk otomotif dan pembiayaan otomotif didirikan dan mewakili pengusaha-pengusaha yang telah melewati krisis ekonomi dan keuangan yang terjadi di Indonesia dengan reputasi bisnis yang solid, termasuk di bidang keuangan dan perbankan. Auto Mandiri Group dipimpin oleh Bapak Hosea Sanjaya sebagai Presiden Direktur dan Bapak Wiranata Halim sebagai Presiden Komisaris.</p>
 	<p>PT. Karya Semesta Investama, berkedudukan di Jakarta, didirikan oleh Bapak Wiranata Halim dan Bapak Hosea Sanjaya berdasarkan Akte No. 17, Notaris Benny Kristianto SH. tanggal 15 Oktober 2003 merupakan Perusahaan Induk dari Auto Mandiri Group. Beberapa anak perusahaan dan perusahaan-perusahaan afiliasi dari Auto Mandiri Group:</p>

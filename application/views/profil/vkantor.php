@@ -1,8 +1,14 @@
 <?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
 <div class="ui main container">
-	<div class="ui grid">
+	<div class="ui breadcrumb">
+		<a href="<?php echo base_url(); ?>" class="section">Beranda</a>
+		<i class="right chevron icon divider"></i>
+		<div class="active section">Kantor Pusat & Cabang</div>
+	</div>
+	<h2>Kantor Pusat & Cabang</h2>
+	<div class="ui grid container">
 		<div class="eight wide column">
-			<h2 class="center">PUSAT</h2>
+			<h4>PUSAT</h4>
 			<table class="ui definition table">
 				<thead>
 					<tr>
@@ -21,7 +27,7 @@
 					</tr>
 				</tbody>
 			</table>
-			<h2 class="center">JABODETABEK</h2>
+			<h4>JABODETABEK</h4>
 			<table class="ui definition table">
 				<thead>
 					<tr>
@@ -65,7 +71,7 @@
 			</table>
 		</div>
 		<div class="eight wide column">
-			<h2 class="center">LUAR JABODETABEK</h2>
+			<h4>LUAR JABODETABEK</h4>
 			<table class="ui definition table">
 				<thead>
 					<tr>
