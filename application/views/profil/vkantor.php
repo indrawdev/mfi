@@ -7,7 +7,7 @@
 	</div>
 	<h2>Kantor Pusat & Cabang</h2>
 	<div class="ui grid container">
-		<div class="eight wide column">
+		<div class="seven wide column">
 			<h4>PUSAT</h4>
 			<table class="ui definition table">
 				<thead>
@@ -70,7 +70,7 @@
 				</tbody>
 			</table>
 		</div>
-		<div class="eight wide column">
+		<div class="seven wide column">
 			<h4>LUAR JABODETABEK</h4>
 			<table class="ui definition table">
 				<thead>
@@ -154,6 +154,9 @@
 					</tr>
 				</tbody>
 			</table>
+		</div>
+		<div class="two wide column">
+			<?php echo $this->template->widget("secondmenu", array('title' => 'MFI')); ?>
 		</div>
 	</div>
 </div>
