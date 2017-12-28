@@ -4,3 +4,5 @@ $('.slider').glide({
   arrowRightText: '',
   arrowLeftText: ''
 });
+
+$('.slider').glide();

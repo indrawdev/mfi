@@ -8,24 +8,25 @@
 	<h2>Hubungi</h2>
 	<div class="ui grid">
 		<div class="thirteen wide column">
-			<form class="ui fluid form">
+			<div id="response"></div><br>
+			<form id="contact" class="ui fluid form" method="POST">
 				<div class="field">
 					<label>Nama Lengkap</label>
-					<input placeholder="Nama Lengkap" type="text">
+					<input type="text" name="fs_nama_lengkap" placeholder="Nama Lengkap">
 				</div>
 				<div class="field">
 					<label>Email</label>
-					<input placeholder="Email" type="text">
+					<input type="text" name="fs_email" placeholder="Email">
 				</div>
 				<div class="field">
 					<label>Subjek</label>
-					<input placeholder="Subjek" type="text">
+					<input type="text" name="fs_subjek" placeholder="Subjek">
 				</div>
 				<div class="field">
 					<label>Pesan</label>
-    				<textarea rows="2"></textarea>
+    				<textarea name="fs_pesan" rows="2"></textarea>
 				</div>
-				 <div class="ui submit green button" tabindex="0">Submit</div>
+				<button class="ui submit green button" tabindex="0">Kirim</button>
 			</form>
 		</div>
 		<div class="three wide column">

@@ -101,7 +101,7 @@ $config['charset'] = 'UTF-8';
 | setting this variable to TRUE (boolean).  See the user guide for details.
 |
 */
-$config['enable_hooks'] = TRUE;
+$config['enable_hooks'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -384,7 +384,7 @@ $config['sess_expiration'] = 7200;
 $config['sess_save_path'] = 'ci_sessions';
 $config['sess_match_ip'] = TRUE;
 $config['sess_time_to_update'] = 300;
-$config['sess_regenerate_destroy'] = FALSE;
+$config['sess_regenerate_destroy'] = TRUE;
 
 /*
 |--------------------------------------------------------------------------
