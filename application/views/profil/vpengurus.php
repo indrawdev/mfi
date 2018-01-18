@@ -15,7 +15,6 @@
 				<li>PT. Sarana Auto Mandiri, Dealer Kawasaki, Propinsi Kalimantan Selatan dan Kalimantan Tengah;</li>
 				<li>PT. Makmur Auto Mandiri, Dealer Kawasaki, Propinsi Sulawesi Utara dan Gorontalo;</li>
 				<li>PT. Bahana Auto Mandiri, Dealer Kawasaki, Propinsi Bangka Belitung;</li>
-				<li>PT. Bahana Makmur Mandiri, Dealer Kawasaki Propinsi Jambi dan Sumatera Selatan;</li>
 				<li>PT. Wira Megah Profitamas, Dealer Toyota, Kalimantan Selatan dan Kalimantan Tengah;</li>
 				<li>PT. Mitra Megah Profitamas, Dealer Suzuki, Kalimantan Selatan dan Kalimantan Tengah;</li>
 				<li>PT. Mitra Profitamas, Dealer Hino, Kalimantan Selatan dan Kalimantan Tengah;</li>
@@ -37,7 +36,7 @@
 					<tr>
 						<td>2</td>
 						<td>Komisaris</td>
-						<td>Winarman Halim</td>
+						<td>Hosea Sanjaya</td>
 					</tr>
 				</tbody>
 			</table>
@@ -51,12 +50,27 @@
 					<tr>
 						<td>1</td>
 						<td>Presiden Direktur</td>
-						<td>Hosea Sanjaya</td>
+						<td>Junus Elim Leatemia</td>
 					</tr>
 					<tr>
 						<td>2</td>
 						<td>Direktur</td>
-						<td>William</td>
+						<td>Fetty Rianie</td>
+					</tr>
+					<tr>
+						<td>3</td>
+						<td>Direktur</td>
+						<td>Tri Utami</td>
+					</tr>
+					<tr>
+						<td>4</td>
+						<td>Direktur</td>
+						<td>Fauzan Adriansyah</td>
+					</tr>
+					<tr>
+						<td>5</td>
+						<td>Direktur</td>
+						<td>Riza Pribadi Hakim</td>
 					</tr>
 				</tbody>
 			</table>

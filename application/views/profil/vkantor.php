@@ -55,18 +55,6 @@
 						<i class="text telephone icon"></i> (0251) 8313 897<br>
 						<i class="fax icon"></i> (0251) 8334 141</td>
 					</tr>
-					<tr>
-						<td class="center aligned"><strong>CIBUBUR</strong></td>
-						<td>Jl. Alternatif Cibubur Raya No.76<br>Cibubur<br>
-						<i class="text telephone icon"></i> (021) 8249 6999 <br>
-						<i class="fax icon"></i> (021) 8249 2929</td>
-					</tr>
-					<tr>
-						<td class="center aligned"><strong>CIBINONG</strong></td>
-						<td>Jl. Raya Talang No.139 A-E<br>Cibinong<br>
-						<i class="text telephone icon"></i> (0251) 8656 172 <br>
-						<i class="fax icon"></i> (0251) 8656 864</td>
-					</tr>
 				</tbody>
 			</table>
 		</div>
@@ -80,12 +68,6 @@
 					</tr>
 				</thead>
 				<tbody>
-					<tr>
-						<td class="center aligned"><strong>BANDUNG</strong></td>
-						<td>Jl. Kiara Condong No.338<br>Bandung<br>
-						<i class="text telephone icon"></i> (022) 7218 217 <br>
-						<i class="fax icon"></i> (021) 7218 217</td>
-					</tr>
 					<tr>
 						<td class="center aligned"><strong>SURABAYA</strong></td>
 						<td>Jl. Raya Jemursari No.339 – 341<br>Surabaya 60238<br>

@@ -17,7 +17,6 @@
 			<p>Secara khusus perusahaan akan mengkapitalisasi potensi pasar yang dimiliki oleh perusahaan-perusahaan afiliasi yang aktif dalam pemasaran otomotif di Indonesia namun secara independen dalam pelayanan dan pengelolaan portofolio kredit pembiayaan otomotif.</p>
 			<p>Perusahaan akan berusaha menempatkan produk jasa dan pelayanan pembiayaan otomotif dengan fokus pada pelayanan & kepuasan pelanggan dalam bersaing dengan pelaku pembiayaan otomotif yang telah aktif di pasar, dengan menerapkan prinsip kehati-hatian. Perusahaan secara optimal melakukan pengelolaan manajemen risiko dan selalu mengelola sumber dana pembiayaan dengan prinsip “term matched” baik tingkat bunga maupun jangka waktu.</p>
 			<p>Adapun produk-produk otomotif yang akan dibiayai oleh perusahaan adalah produk otomotif yang telah eksis dan memiliki jaringan pemasaran & pelayanan purna jual baik serta merek-nya bersifat global.</p>
-			<p>Perusahaan juga akan aktif dalam pembiayaan sepeda motor, hanya untuk motor-motor merek Jepang, yaitu: Kawasaki, Yamaha, Suzuki dan Honda.</p>
 		</div>
 		<div class="three wide column">
 			<?php echo $this->template->widget("secondmenu", array('title' => 'MFI')); ?>

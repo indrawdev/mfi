@@ -1,0 +1,1 @@
+var myDropzone = new Dropzone("div#filePhoto", { url: "/controlpanel/uploadphoto"});

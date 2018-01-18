@@ -14,7 +14,11 @@
 <body>
 
 <?php 
-    echo $this->template->widget("navigation", array('title' => 'MFI'));
+    if ($this->session->userdata('admin') == TRUE) {
+        echo $this->template->widget("navadmin", array('title' => 'MFI'));
+    } else {
+        echo $this->template->widget("navigation", array('title' => 'MFI'));
+    }
 ?>
 
 <?php
