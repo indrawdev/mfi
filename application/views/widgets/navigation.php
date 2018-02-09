@@ -1,4 +1,4 @@
-<div class="ui red fixed inverted menu">
+<div class="ui blue fixed inverted menu">
 	<div class="ui container">
 		<a href="<?php echo site_url(); ?>" class="header">
 			<img class="logo" src="<?php echo base_url('assets/images/logo.png'); ?>">
